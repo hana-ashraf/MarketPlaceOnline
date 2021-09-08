@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\marketspace\main.cpp(65,21): warning C4018: '<': signed/unsigned mismatch
+E:\marketspace\main.cpp(125,24): warning C4018: '<': signed/unsigned mismatch
+E:\marketspace\main.cpp(128,25): warning C4018: '<': signed/unsigned mismatch
+  marketPlace.vcxproj -> E:\marketspace\marketPlace\Debug\marketPlace.exe
